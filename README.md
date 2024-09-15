@@ -42,6 +42,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal26&" alt="shekhfaisal26" /></p>
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ### 📬 Reach me out:
 <p align="left">
 <a href = "https://www.instagram.com/_singh_sunidhi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
