@@ -40,7 +40,12 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal26&" alt="shekhfaisal26" /></p>
+### 📊 GitHub Stats:
+![ShekhFaisal26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShekhFaisal26&theme=radical&hide_border=false)<br/>
+![ShekhFaisal26's Stats](https://github-readme-stats.vercel.app/api?username=ShekhFaisal26&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![ShekhFaisal26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhFaisal26&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/><br/>
+[![](https://visitcount.itsvg.in/api?id=ShekhFaisal26&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
